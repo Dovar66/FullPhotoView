@@ -1,0 +1,2 @@
+# FullPhotoView
+ 利用photoView实现可点击放大到全屏显示的控件，效果类似于微信朋友圈点开看大图
